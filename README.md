@@ -1,3 +1,5 @@
+> **Note**: This repository is a fork of [esl/ex_rabbit_pool](https://github.com/esl/ex_rabbit_pool). It modifies `mix.exs` dependencies.
+
 # `ex_rabbit_pool`
 
 A RabbitMQ connection pooling library written in Elixir
